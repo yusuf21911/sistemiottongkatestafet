@@ -1,0 +1,13 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "estafet",
+            "host": "estafet.cloud.shiftr.io",
+            "port": 1883,
+            "clientId": "vsmqtt_client_51c4",
+            "username": "estafet",
+            "password": "5E4F7FVQB3mZvQht",
+
+        }
+    ]
+}
